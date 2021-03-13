@@ -33,7 +33,7 @@ public class PortfolioActivity extends AppCompatActivity {
         });
 
         linkedIn.setOnClickListener(view -> {
-            goToLinkedIn("https://www.linkedin.com/arjun-sivaraman-1407");
+            goToLinkedIn("https://www.linkedin.com/arjunsivaraman-1407");
         });
 
         seekBar.setMax(3);
